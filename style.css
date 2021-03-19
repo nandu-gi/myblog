@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+    background-color: plum;
+}
+
+
+
+#picture {
+    width: 200px;
+}
+
+
+
+#paragraph {
+    color: lavender;
+    text-align: center;
+    font-size: 20px;
+    background-color: palevioletred;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 10;
+    font-family: sans-serif;
+    line-height: 1.2;
+    color: orangered;
+}
+
+#welcome {
+    background-color: plum;
+}
+
+#video {
+    background-color: aqua;
+}
+
+#contact {
+    background-color: peru;
+}
+.row {
+    background-color: white;
+    text-align: center;
+     
+}
+img {
+  width: 30%;  
+}
+p {
+    margin-left: 60px;
+    margin-right: 60px;
+    color: lightsalmon;
+}
+.apple {
+   border: 2px solid;
+   padding-left: 0px;
+    padding-right: 0px;
+    float: none; 
+}
+.appke {
+   border: 2px solid;
+   padding-left: 0px;
+    padding-right: 0px;
+    float: none; 
+}
+
+.app {
+   border: 2px solid;
+   padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
